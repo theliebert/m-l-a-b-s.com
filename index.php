@@ -2,13 +2,14 @@
 Desenvolvido Por: mLabs
 -->
 <?php
-$url = "http://m-l-a-b-s.com/";
+$url = "http://maispropaganda.com/";
 $title = "mLabs";
 
 $var = array(
         "1" => array(
                   "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "image" => "http://gph.is/2fU7C3t
+                 "
                   ),
         "2" => array(
                   "titulo" => "mLabs",
